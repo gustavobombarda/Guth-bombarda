@@ -1,0 +1,2 @@
+# Guth-bombarda
+pensamento computacional
